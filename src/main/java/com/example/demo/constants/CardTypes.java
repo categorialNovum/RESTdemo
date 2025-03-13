@@ -1,4 +1,4 @@
-package com.example.demo.entity;
+package com.example.demo.constants;
 
 public enum CardTypes {
     LAND,
@@ -6,7 +6,7 @@ public enum CardTypes {
     CREATURE,
     ENCHANTMENT,
     INSTANT,
-    SCORCERY,
+    SORCERY,
     PLANESWALKER,
     BATTLE,
     TOKEN

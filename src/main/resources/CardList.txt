@@ -1,1 +1,2 @@
 MagicCard{cardId=a4284fa0-1c1a-40f7-a9e9-2e5f2fb78d48, name='Rampant Growth', cardText='Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.', manaCost='1C,1G'}
+MagicCard{cardId=null, name='Rampant Growth', cardText='Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.', manaCost='1C,1G', convertedManaCost=2, colors=[GREEN, COLORLESS], types=[]}
